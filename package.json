@@ -1,0 +1,19 @@
+{
+  "name": "my-react-app",
+  "version": "1.0.0",
+  "description": "this is my first react code",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [
+    "react",
+    "javascript"
+  ],
+  "author": "Elisha",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.6.0",
+    "react-bootstrap": "^2.9.1"
+  }
+}
